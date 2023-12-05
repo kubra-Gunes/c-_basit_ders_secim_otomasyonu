@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+C:\Users\ASUS\source\repos\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+C:\Users\ASUS\source\repos\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+C:\Users\ASUS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+C:\Users\ASUS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+C:\Users\ASUS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+C:\Users\ASUS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
+C:\Users\ASUS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form2.resources
+C:\Users\ASUS\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form3.resources
